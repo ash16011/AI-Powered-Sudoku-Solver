@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+torch
+torch-geometric
+numpy
+pydantic
+requests
+aiofiles
+gunicorn
+starlette
+typing-extensions
+jinja2
+transformers

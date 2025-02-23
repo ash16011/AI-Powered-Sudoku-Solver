@@ -26,6 +26,9 @@
 
 ## 📸 **Screenshots**
 
+![Dashboard Screenshot](images/dashboard.png)
+
+
 ### 🎨 **Beautiful and Intuitive UI**
 - Input grid for entering Sudoku puzzles.
 - Solution grid for displaying solved puzzles.
